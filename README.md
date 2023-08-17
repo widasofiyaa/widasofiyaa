@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @widasofiyaa
-- 👀 I’m interested in tech :D
+- 👀 I’m interested in data and technology
 - 🌱 I’m currently learning informatics at Telkom University
 - 📫 How to reach me follow me at Github
 
